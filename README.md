@@ -1,39 +1,37 @@
-📁 My Personal Image Hosting Server
+# 📁 My Personal Image Hosting Server
 
-This repository is used as a personal image hosting server, where I store and manage the images I use across my projects, portfolios, and other web applications.
+This repository serves as a **personal image hosting server**, where I store and manage the images used across my projects, portfolios, and other web applications.  
+It acts like a lightweight CDN, allowing easy access to images through direct GitHub links.
 
-It works like a lightweight CDN, making it easy to access images through direct GitHub links.
+---
 
-🌐 Usage
+## 🌐 Usage
 
-All images stored here can be used directly in:
+Images stored in this repository can be used directly in:
 
-Websites
+- Websites  
+- Projects  
+- Markdown files  
+- Documentation  
+- Portfolio sections  
 
-Projects
+Just copy the **raw image URL** and use it wherever you need.
 
-Markdown files
+---
 
-Documentation
+## 🎯 Purpose
 
-Portfolio sections
+- Centralize all my personal image assets  
+- Keep files organized and easily accessible  
+- Simplify image management across multiple projects  
 
-Simply copy the raw image URL and use it wherever needed.
+---
 
-🎯 Purpose
+## 📦 Types of Files
 
-Centralize all my personal assets
+- Profile images  
+- Project assets  
+- UI resources  
+- General graphics  
 
-Keep images organized and easily accessible
-
-Make image management simpler across multiple projects
-
-📦 Type of Files
-
-Profile images
-
-Project assets
-
-UI resources
-
-General graphics
+---
